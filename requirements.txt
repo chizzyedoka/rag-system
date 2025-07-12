@@ -9,3 +9,5 @@ tiktoken
 langchain-openai
 python-dotenv
 langchain-chroma
+fastapi
+uvicorn
